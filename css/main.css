@@ -65,14 +65,17 @@ footer {
 
   #column-1 {
     background-color: deepPink;
+    width: 50%;
   }
 
   #column-2 {
     background-color: darkViolet;
+    width: 50%;
   }
 
   #column-3 {
     background-color: gold ;
+
   }
 
   footer {
@@ -90,14 +93,19 @@ footer {
 
   #column-1 {
     background-color: crimson ;
+    width: 33.3333%;
   }
 
   #column-2 {
     background-color: chocolate ;
+    width: 33.3333%;
+
   }
 
   #column-3 {
     background-color: darkBlue ;
+    width: 33.3333%;
+
   }
 
   footer {
